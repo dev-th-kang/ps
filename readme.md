@@ -1,3 +1,12 @@
+# Data Structure
+
+* ### [stack](/data-structure/stack/readme.md) ###
+  * ``` 일반 스택```
+
+* ### [queue](/data-structure/queue/readme.md) ###
+  * ``` 선형 큐, 원형 큐 ```
+
+
 # Graph 이론
 
 * ### [bfs - 너비우선탐색](/graph-algo/bfs/readme.md) ###

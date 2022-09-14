@@ -1,10 +1,10 @@
-# Data Structure
+# Data Structure 이론
 
 * ### [stack](/data-structure/stack/readme.md) ###
-  * ``` 일반 스택```
+  * ``` 일반 스택, 연결리스트 스택```
 
 * ### [queue](/data-structure/queue/readme.md) ###
-  * ``` 선형 큐, 원형 큐 ```
+  * ``` 선형 큐의 장단점, 원형 큐의 장단점 , 우선순위 큐의 장단점 ```
 
 
 # Graph 이론

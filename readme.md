@@ -18,6 +18,9 @@
 * ### [dijkstra - 데이크스트라](/graph-algo/dijkstra/readme.md) ###
   * ``` 방향성, 비방향성, 조건에 따른 탐색```
 
+* ### [union-Find - 서로소 집합](/graph-algo/union-find/readme.md) ###
+  * ``` 방향성, 비방향성, 조건에 따른 탐색```
+
 # DP 이론
 * ### [Bottom-up & Top-down 방식](dp-algo/readme.md)
   * ```메모이제이션을 사용한 동적계획법```

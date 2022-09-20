@@ -1,9 +1,9 @@
-# Sort 이론
+# [Sort 이론](/sort/README.MD)
   * [퀵 정렬](/sort/quickSort.cpp)
   * 병합 정렬
   * 기수 정렬
 
-# Search 이론
+# [Search 이론](/search-algo/readme.md)
   * [linear Search - 선형 탐색](/search-algo/linearSearch.h)
   * [binary Search - 이분 탐색](/search-algo/binarySearch.h)
 

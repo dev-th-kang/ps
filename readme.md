@@ -1,5 +1,5 @@
-# [Sort 이론](/sort/README.MD)
-  * [퀵 정렬](/sort/quickSort.cpp)
+# [Sort 이론](/sort-algo//README.MD)
+  * [퀵 정렬](/sort-algo//quickSort.cpp)
   * 병합 정렬
   * 기수 정렬
 

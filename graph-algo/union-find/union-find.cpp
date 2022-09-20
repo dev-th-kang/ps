@@ -11,7 +11,7 @@ void _union(int x,int y){
     x = _find(x);
     y = _find(y);
 
-    if(x < y) parent[y] = x;
+    if(x <= y) parent[y] = x;
     else parent[x]=y;
 }
 

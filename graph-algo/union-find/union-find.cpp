@@ -5,7 +5,7 @@ int parent[1001];
 int _find(int x){
     if(x == parent[x]) return  x;
     
-    return _find(parent[x]);
+    return parent[x] = _find(parent[x]);
 }
 void _union(int x,int y){
     x = _find(x);

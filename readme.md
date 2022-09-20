@@ -1,3 +1,12 @@
+# Sort 이론
+  * [퀵 정렬](/sort/quickSort.cpp)
+  * 병합 정렬
+  * 기수 정렬
+
+# Search 이론
+  * [linear Search - 선형 탐색](/search-algo/linearSearch.h)
+  * [binary Search - 이분 탐색](/search-algo/binarySearch.h)
+
 # Data Structure 이론
 
 * ### [stack](/data-structure/stack/readme.md) ###
@@ -19,7 +28,7 @@
   * ``` 방향성, 비방향성, 조건에 따른 탐색```
 
 * ### [union-Find - 서로소 집합](/graph-algo/union-find/readme.md) ###
-  * ``` 방향성, 비방향성, 조건에 따른 탐색```
+  * ``` union-Find의 사용```
 
 # DP 이론
 * ### [Bottom-up & Top-down 방식](dp-algo/readme.md)

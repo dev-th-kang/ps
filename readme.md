@@ -15,6 +15,9 @@
 * ### [queue](/data-structure/queue/readme.md) ###
   * ``` 선형 큐의 장단점, 원형 큐의 장단점 , 우선순위 큐의 장단점 ```
 
+* ### [linked-list](/data-structure/list/readme.md) ###
+  * ``` 단일 연결 리스트, 이중 연결 리스트 ```
+
 
 # Graph 이론
 
